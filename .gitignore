@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+output/*.pdf
+files_exploits.csv
+last_commit.txt

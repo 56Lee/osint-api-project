@@ -1,0 +1,6 @@
+fpdf==1.7.2
+packaging>=23.0
+pandas>=2.0
+python-dotenv>=1.0
+requests>=2.31
+shodan>=1.31
